@@ -1,3 +1,3 @@
 # Google-Project
 
-is my firsts project in The Odin project
+is my first project in The Odin project
